@@ -1,186 +1,95 @@
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=120&section=header&text=AHMAD%20HUSSAIN&fontSize=40&fontColor=FFFFFF&fontAlignY=55&desc=FULL-STACK%20WEB%20DEVELOPER&descSize=15&descAlignY=80" width="100%" />
-</div>
 
-<table>
-<tr>
-<td width="30%" align="center" valign="middle">
-  <img src="https://github.com/ahmadhussain-dev.png" width="220" style="border-radius:50%;" alt="Ahmad Hussain"/>
-</td>
-<td width="70%" valign="middle">
+\<div align="center">
 
 # Ahmad Hussain
 
-### Full-Stack Web Developer | BSIT Student
+**Full-Stack Web Developer | BSIT Student | Pakistan 🇵🇰**
 
-I'm a passionate Full-Stack Web Developer from Pakistan 🇵🇰, focused on building modern, responsive and scalable web applications.
+*Building modern, scalable and user-friendly web applications.*
 
-Currently exploring advanced React, Next.js, backend architecture and modern software development practices.
+[LinkedIn](https://linkedin.com/in/ahmadhussain-dev) · [Email](mailto\:ahmadwaheed4455@gmail.com) · [GitHub](https://github.com/ahmadhussain-dev)
 
-<a href="https://linkedin.com/in/ahmadhussain-dev">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ahmadwaheed4455@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/ahmadhussain-dev">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
+\</div>
 
 ---
 
-## `whoami`
+### About Me
 
-```javascript
-const ahmad = {
-    role: "Full-Stack Web Developer",
-    education: "BS Information Technology",
-    university: "NUML",
-    experience: "MERN Stack Intern @ Cybex IT",
-    location: "Pakistan 🇵🇰",
-    interests: [
-        "Web Development",
-        "Backend Architecture",
-        "Software Engineering",
-        "Cloud & DevOps"
-    ],
-    currentlyLearning: [
-        "Next.js",
-        "TypeScript",
-        "System Design"
-    ]
-};
-```
+I'm a passionate Full-Stack Web Developer and BSIT student with an interest in building modern web applications and solving real-world problems through technology.
+
+- 🔭 **Currently working on:** MERN Stack Web Applications & University FYP
+- 🌱 **Currently learning:** Next.js, TypeScript, advanced React & cloud technologies
+- 💬 **Ask me about:** JavaScript, React, Node.js, Express, MongoDB & REST APIs
+- 🤝 **Open to:** Collaborations, internships, projects & development opportunities
+- ⚡ **Fun fact:** I love turning ideas into real-world web applications and continuously learning new technologies.
 
 ---
 
-## Tech Arsenal
+### Connect With Me
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap,vite" />
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,prisma" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### Tools & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,nginx,npm,vscode" />
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-### Other Skills
-
-- REST API Development
-- Authentication & Authorization
-- Database Design
-- Responsive UI Development
-- Git & GitHub Workflows
-
-</td>
-</tr>
-</table>
+\<p> \<a href="[https://facebook.com/ahmadhussain.dev](https://facebook.com/ahmadhussain.dev)">\<img src="[https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat](https://img.shields.io/badge/Facebook-1877F2?logo=facebook\&logoColor=white\&style=flat)" />\</a> \<a href="[https://instagram.com/ahmadhussain.dev](https://instagram.com/ahmadhussain.dev)">\<img src="[https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white\&style=flat)" />\</a> \<a href="[https://linkedin.com/in/ahmadhussain-dev](https://linkedin.com/in/ahmadhussain-dev)">\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white\&style=flat)" />\</a> \<a href="[https://tiktok.com/@ahmadhussain.dev](https://tiktok.com/@ahmadhussain.dev)">\<img src="[https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=flat](https://img.shields.io/badge/TikTok-000000?logo=tiktok\&logoColor=white\&style=flat)" />\</a> \<a href="mailto\:ahmadwaheed4455\@gmail.com">\<img src="[https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white\&style=flat)" />\</a> \</p>
 
 ---
 
-## What I'm Focused On
+### Tech Stack
 
-<table>
-<tr>
-<td width="50%">
+**Languages & Frontend**
 
-### ⚡ Building
+\<p>
+\<img src="[https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,next,redux,bootstrap,vite](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,next,redux,bootstrap,vite)" />
+\</p>
 
-Developing full-stack applications with modern frontend and backend technologies.
+**Backend & Databases**
 
-</td>
-<td width="50%">
+\<p>
+\<img src="[https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,fastapi,redis,prisma](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,fastapi,redis,prisma)" />
+\</p>
 
-### 🧠 Learning
+**Tools & Development**
 
-Improving my knowledge of system design, scalable architecture and cloud deployment.
+\<p>
+\<img src="[https://skillicons.dev/icons?i=git,github,npm,docker,postman,nginx,vscode](https://skillicons.dev/icons?i=git,github,npm,docker,postman,nginx,vscode)" />
+\</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Design Tools**
 
-### 🔍 Exploring
-
-Backend engineering, caching, authentication, API design and optimization.
-
-</td>
-<td width="50%">
-
-### 🤝 Collaborating
-
-Open to interesting projects, teamwork and opportunities to grow as a developer.
-
-</td>
-</tr>
-</table>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=ps,ai,figma](https://skillicons.dev/icons?i=ps,ai,figma)" />
+\</p>
 
 ---
 
-## GitHub Analytics
+### GitHub Stats
 
-<div align="center">
+\<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadhussain-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" />
+\<img src="[https://github-readme-stats.vercel.app/api?username=ahmadhussain-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=ahmadhussain-dev\&show_icons=true\&theme=github_dark\&hide_border=true\&include_all_commits=true)" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadhussain-dev&theme=github-dark-blue&hide_border=true" width="49%" />
+\<img src="[https://streak-stats.demolab.com/?user=ahmadhussain-dev&theme=github-dark-blue&hide_border=true](https://streak-stats.demolab.com/?user=ahmadhussain-dev\&theme=github-dark-blue\&hide_border=true)" width="48%" />
 
-<br/>
+\<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhussain-dev&layout=compact&theme=github_dark&hide_border=true" width="40%" />
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhussain-dev&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhussain-dev\&layout=compact\&theme=github_dark\&hide_border=true)" width="40%" />
 
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadhussain-dev&theme=github-compact&hide_border=true" width="100%" />
-
-</div>
+\</div>
 
 ---
 
-<div align="center">
+### Contribution Activity
 
-### <code>Building. Learning. Improving.</code>
+\<div align="center">
 
-<sub>Thanks for visiting my GitHub profile.</sub>
+\<img src="[https://profile-readme-generator.com/assets/snake.svg](https://profile-readme-generator.com/assets/snake.svg)" alt="Contribution Snake" width="100%" />
 
-<br/><br/>
+\</div>
 
-<img src="https://komarev.com/ghpvc/?username=ahmadhussain-dev&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
+---
 
-</div>
+\<div align="center">
+
+**Code · Learn · Build · Improve 🚀**
+
+\<img src="[https://komarev.com/ghpvc/?username=ahmadhussain-dev&style=flat&color=64748b&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=ahmadhussain-dev\&style=flat\&color=64748b\&label=PROFILE+VIEWS)" />
+
+\</div>
